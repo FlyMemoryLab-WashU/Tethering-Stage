@@ -8,6 +8,7 @@
 - [3. 3D Printed Parts](#3-3d-printed-parts)
 - [4. Chiller Assembly](#4-chiller-assembly)
 - [5. Micro-Manipulator Assembly](#5-micro-manipulator-assembly)
+- [6. Required Parts List](#6-required-parts-list)
 
   
 ## 1. Laser-Cut Acrylic Parts
@@ -66,7 +67,7 @@ The smaller components should be 3D printed. [cite_start]You can print these loc
 
 The final step is to assemble the micro-manipulator stage.
 
-### Required Parts List
+## 6. Required Parts List
 
 | Part Name | SKU / Part Number | Quantity | Notes |
 | :--- | :--- | :---: | :--- |
