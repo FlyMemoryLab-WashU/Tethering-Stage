@@ -1,4 +1,4 @@
-# This guide provides instructions for building the inexpensive tethering stage
+# Instructions for building the inexpensive tethering stage
 
 ---
 
