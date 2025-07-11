@@ -66,6 +66,14 @@ The smaller components should be 3D printed. [cite_start]You can print these loc
 
 The final step is to assemble the micro-manipulator stage.
 
+### Required Parts List
+
+| Part Name | SKU / Part Number | Quantity | Notes |
+| :--- | :--- | :---: | :--- |
+| **Arduino Uno R3** | `A000066` | 1 | The main microcontroller. |
+| **DHT22 Sensor** | `AM2302` | 1 | For temperature and humidity. |
+| **M3 Screws** | `HW-102` | 8 | `12mm` length. |
+
 * [cite_start]Fasten the linear stage to the 3D printed adapter piece using `M3 8mm screws` and `M3 nuts`[cite: 1].
 * [cite_start]Fasten the 3D printed adapter to the **6mm-thick** baseplate using `M6 12mm screws` and `M6 nuts`[cite: 1].
 * On the thread adapter, wrap one layer of electrical tape around the thread. [cite_start]This provides resistance and prevents unwanted rotation[cite: 1].
