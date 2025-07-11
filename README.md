@@ -13,7 +13,9 @@
   
 ## 1. Laser-Cut Acrylic Parts
 
-[cite_start]For the main body of the treadmill, you'll need to laser-cut several acrylic parts[cite: 1]. [cite_start]We recommend using either a local CO2 laser cutting service or an online platform like [Ponoko](https://www.ponoko.com)[cite: 1].
+![the main body of the tethering stage](https://github.com/user-attachments/assets/dc868de3-fde2-4627-a067-73d807487f21)
+
+you'll need to laser-cut several acrylic parts[cite: 1]. [cite_start]We recommend using either a local CO2 laser cutting service or an online platform like [Ponoko](https://www.ponoko.com).
 
 * **Pay close attention to material thickness.** The design files are separated for three different acrylic sheet thicknesses. [cite_start]Ensure you use the correct file for each thickness[cite: 1].
     * [cite_start]The required thicknesses are **6mm** (1/4"), **3mm** (1/8"), and **1.5mm** (1/16")[cite: 1].
