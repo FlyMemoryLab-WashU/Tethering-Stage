@@ -69,8 +69,8 @@ The final step is to assemble the micro-manipulator stage.
 
 ## 6. Required Parts List
 
-| Part Name | SKU / Part Number | Quantity | Notes |
-| :--- | :--- | :---: | :--- |
+| Part Name | SKU / Part Number | Quantity | Notes | Link | Description |
+| :--- | :--- | :---: | :--- | :--- | :--- |
 | **Arduino Uno R3** | `A000066` | 1 | The main microcontroller. |
 | **DHT22 Sensor** | `AM2302` | 1 | For temperature and humidity. |
 | **M3 Screws** | `HW-102` | 8 | `12mm` length. |
