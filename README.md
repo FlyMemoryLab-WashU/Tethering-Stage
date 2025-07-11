@@ -2,6 +2,14 @@
 
 ---
 
+### Table of Contents
+- [1. Laser-Cut Acrylic Parts](#1-laser-cut-acrylic-parts)
+- [2. Acrylic Assembly](#2-acrylic-assembly)
+- [3. 3D Printed Parts](#3-3d-printed-parts)
+- [4. Chiller Assembly](#4-chiller-assembly)
+- [5. Micro-Manipulator Assembly](#5-micro-manipulator-assembly)
+
+  
 ## 1. Laser-Cut Acrylic Parts
 
 [cite_start]For the main body of the treadmill, you'll need to laser-cut several acrylic parts[cite: 1]. [cite_start]We recommend using either a local CO2 laser cutting service or an online platform like [Ponoko](https://www.ponoko.com)[cite: 1].
